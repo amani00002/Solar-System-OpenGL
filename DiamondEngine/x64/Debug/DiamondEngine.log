@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\hi\Downloads\OpenGL-SolarSystem-master\OpenGL Project-SolarSystem\main.cpp(190,28): warning C4244: 'initialisation' : conversion de 'double' en 'float', perte possible de données
+glfw3.lib(init.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(init.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(window.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(window.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(input.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(input.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(context.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(context.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(win32_init.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(win32_monitor.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(win32_time.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(monitor.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(vulkan.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(win32_window.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(win32_tls.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(win32_joystick.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(wgl_context.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' n'a pu être trouvé avec 'glfw3.lib(egl_context.obj)' ou sur '' ; l'objet sera lié sans informations de débogage
+  DiamondEngine.vcxproj -> C:\Users\hi\Downloads\OpenGL-SolarSystem-master\OpenGL Project-SolarSystem\x64\Debug\DiamondEngine.exe
